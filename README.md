@@ -1,2 +1,2 @@
 # snipper
-A place to store the templates 
+A web application place to store the templates 
